@@ -12,9 +12,7 @@ public static class Program
 
         var nameOfSong = new NameConstraint("Diamond");
         var durationOfSong = new DurationConstraint(156);
-        ;
-        ;
-
+            
         new SearchByName(nameOfSong,album1).Search();
         new SearchByDuration(durationOfSong, album1).Search();
     }
