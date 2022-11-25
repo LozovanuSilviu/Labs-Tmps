@@ -1,4 +1,4 @@
-### Author: *Garciu Eugenia*
+### Author: *Lozovanu Silviu*
 # Topic: *Structural Design Patterns*
 
 ## Theory :
